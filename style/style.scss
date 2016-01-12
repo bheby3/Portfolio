@@ -1,0 +1,396 @@
+html, body {
+  z-index:0;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #1A1A1A;
+  overflow: hidden;
+}
+
+//HOME PAGE
+
+.firstBackGround {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  z-index: 0;
+  //overflow: hidden;
+}
+.homeHeaderWrapper {
+  z-index: 10;
+  display: flex;
+  position: absolute;
+  padding: 1% 0% 0 60%;
+  width: 100%;
+  height: 7.6%;
+  //padding: 1% 0% 0 60%;
+}
+.homeHeader {
+  z-index:10;
+  padding: 0% 0 0% 0;
+  margin: 1.5% 2% 0 0;
+  font-size: 2vh;
+  color: white;
+  text-shadow: 3px 3px 0 #000,
+    /* Simulated effect for Firefox and Opera
+    and nice enhancement for WebKit */
+  -1px -1px 0 #000,
+  1px -1px 0 #000,
+  -1px 1px 0 #000,
+  1px 1px 0 #000;
+  a:hover {
+    color: #81D7A9;
+  }
+}
+
+//header
+.headerWrapper {
+  z-index: 10;
+  display: flex;
+  position: absolute;
+  padding: 0 0 0 60%;
+  width: 100%;
+  height: 7.6%;
+  background-color: black;
+  //padding: 1% 0% 0 60%;
+  a:hover {
+    color: #81D7A9;
+  }
+}
+.header {
+  z-index:10;
+  padding: 0% 0 0% 0;
+  margin: 1.5% 2% 0 0;
+  font-size: 2vh;
+  display: inline;
+  color: white;
+  text-shadow: 3px 3px 0 #000,
+    /* Simulated effect for Firefox and Opera
+       and nice enhancement for WebKit */
+  -1px -1px 0 #000,
+  1px -1px 0 #000,
+  -1px 1px 0 #000,
+  1px 1px 0 #000;
+}
+a:link {
+  z-index:10;
+  text-decoration: none;
+}
+a:hover {
+  color: lightseagreen;
+}
+a:visited {
+  z-index:10;
+  color: white;
+}
+
+//
+
+//Social Page
+.iconWrapperSocial {
+  display: flex;
+  position: absolute;
+  top: 30%;
+  left: 40%;
+  a {
+    padding: 5%;
+  }
+}
+.aboutMe {
+  color: white;
+  position: absolute;
+  top: 50%;
+  right: 35%;
+  font-size: 3em;
+}
+
+//SKILLS PAGE
+
+//Skills Header
+.headerWrapperSkills {
+  z-index: 10;
+  display: flex;
+  position: absolute;
+  padding: 1% 0% 0 60%;
+}
+.headerSkills {
+  z-index:10;
+  margin: 5%;
+  font-size: 2vh;
+  color: white;
+  text-shadow: 3px 3px 0 #000,
+    /* Simulated effect for Firefox and Opera
+       and nice enhancement for WebKit */
+  -1px -1px 0 #000,
+  1px -1px 0 #000,
+  -1px 1px 0 #000,
+  1px 1px 0 #000;
+
+}
+.skillsHeader {
+  z-index:10;
+  color: white;
+  font-size: 2em;
+  padding: 4% 0 0 44%;
+}
+.line {
+  padding: 3.9% 0 0 0;
+}
+//Skills Main Content
+
+img {
+  z-index:10;
+  padding: 5% 4% 0 0%;
+}
+.logosTop {
+  z-index:10;
+  padding: 0% 0% 0% 16%;
+}
+.logoNamesTop {
+  z-index:10;
+  display: flex;
+  color: white;
+  font-size: 2.8vh;
+  padding: 0% 0% 0% 13%;
+}
+.css3 {
+  z-index:10;
+  padding: 0 0 0 7%;
+}
+.firebase {
+  z-index:10;
+  padding: 0 0 0 11%;
+}
+.angular {
+  z-index:10;
+  padding: 0 0% 0 10%;
+}
+.express {
+  z-index:10;
+  padding: 0 0 0 9.8%;
+}
+.javascript {
+  z-index:10;
+  padding: 0 0 0 8.9%;
+}
+////Bottom Skills
+.logosBottom {
+  z-index:10;
+  padding: 1% 0 0 30.5%;
+  width: 70%;
+}
+.logoNamesBottom {
+  z-index:10;
+  display: flex;
+  color: white;
+  font-size: 2.8vh;
+  padding: 0 0 0 33%;
+}
+.mongo {
+  z-index:10;
+  padding: 0 0 0 0%;
+}
+.git {
+  z-index:10;
+  padding: 0 0 0 15.7%;
+}
+.html5 {
+  z-index:10;
+  padding: 0 0 0 16%;
+}
+//end Header
+
+// PORTFOLIO PAGE
+
+.projectWrapper {
+  padding: 20% 0% 0 20%;
+  display: flex;
+  justify-content: center;
+  width: 70%;
+  z-index: 20;
+  flex-wrap: wrap;
+}
+.project {
+  color: white;
+  z-index:20;
+  width: 20%;
+  height: 25%;
+  border: 3px;
+}
+
+//RESUME PAGE
+
+.resume {
+  color: white;
+  font-size: 2em;
+}
+
+//CONTACT PAGE
+
+.contactMe {
+  color: white;
+  font-size: 2em;
+  position: absolute;
+  left: 21%;
+  top: 40%;
+}
+//input box and button
+.inputWrapper {
+  font-size: 2em;
+}
+.inputName {
+  position: absolute;
+  left: 55%;
+  top: 30%;
+  width: 20%;
+  height: 5%;
+  border: 1%;
+  border-color: white;
+  background: none;
+  text-decoration-color: white;
+  text-align: center;
+  //font-size: .75em;
+}
+.inputEmail {
+  position: absolute;
+  left: 55%;
+  top: 40%;
+  width: 20%;
+  height: 5%;
+  border: 1%;
+  border-color: white;
+  background: none;
+  text-align: center;
+  //font-size: .75em;
+}
+.messageBox {
+  position: absolute;
+  left: 55%;
+  top: 60%;
+  width: 20%;
+  height: 20%;
+  border: 1%;
+  border-color: white;
+  background: none;
+  font-size: .4em;
+  //text-align: center;
+  //font-size: .65em;
+}
+input {
+  color: white;
+  font-size: .6em;
+}
+textarea {
+  color: white;
+  font-size: .6em;
+}
+.sendEmail {
+  position: absolute;
+  left: 60%;
+  top: 83%;
+  width: 10%;
+  height: 5%;
+  border: 1vh;
+  border-color: white;
+
+}
+//logos
+.fa {
+  color: white;
+}
+.iconWrapperContact {
+  display: flex;
+  //padding: 0% 10% 0% 0%;
+  left: 18%;
+  top: 45%;
+  position: absolute;
+  align-content: space-between;
+  a {
+    padding: 11% 10% 0% 0%;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.secondBackGround {
+  background-image: url("../images/guyStanding.png");
+  width: 100%;
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.thirdBackGround {
+  background-image: url("../images/guyStanding.png");
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+  background-repeat: no-repeat;
+  //background-size: cover;
+}
+
+//#video {
+//  /*background-image: url("https://vimeo.com/15069551");*/
+//  width: 100%;
+//  height: 100%;
+//  z-index: 0;
+//  position: relative;
+//}
+//
+//#overVideo {
+//  position: absolute;
+//  top: 50%;
+//  left: 50%;
+//  color: white;
+//  z-index: 10;
+//}
+//.menu {
+//  width: 100%;
+//  background: #e2e2e2;
+//}
+//
+//.wrapper {
+//  display: flex;
+//  background-color: black;
+//  -webkit-flex-flow: row wrap;
+//  flex-flow: row;
+//  justify-content: flex-end;
+//  font-weight: bold;
+//  .header {
+//    padding: 10px;
+//    flex-direction: row;
+//  }
+//}
+//
+//.canvas {
+//  width: 100%;
+//  height: 500px;
+//}
+//
+//.testing {
+//  width: 100%;
+//  height: 100vh;
+//  background-image: url("../logos/guyStanding.png");
+//  //background-image: url("//giphy.com/embed/dU97uV3UyP0ly");
+//  background-size: cover;
+//}
+//
+//.social {
+//  width: 100%;
+//  height: 100vh;
+//  background-image: url('../logos/cityrasterizedforweb.png');
+//  background-size: cover;
+//}
+
+
