@@ -38,3 +38,12 @@
 //            }
 //        }
 //    });
+var app = angular.module('app');
+
+    app.directive('firebase', function () {
+        return {
+            restrict: 'E',
+            templateUrl: 'script/directives/firebasedir.html',
+            controller: 'firebasectrl'
+        }
+    });

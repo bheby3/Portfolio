@@ -4,6 +4,7 @@ html, body {
   padding: 0;
   width: 100%;
   height: 100%;
+  //background-color: black;
   background-color: #1A1A1A;
   overflow: hidden;
 }
@@ -11,45 +12,64 @@ html, body {
 //HOME PAGE
 
 .firstBackGround {
-  position: relative;
+  position: absolute;
+  bottom: 0%;
+  //position: relative;
   width: 100%;
-  height: 100vh;
+  height: 100%;
   z-index: 0;
   //overflow: hidden;
+}
+.bottomHome {
+  position: absolute;
+  z-index:30;
+  height: 3%;
+  bottom: 0%;
+  //bottom: 1%;
+  width: 100%;
+  //background-color: black;
 }
 .homeHeaderWrapper {
   z-index: 10;
   display: flex;
   position: absolute;
-  padding: 1% 0% 0 60%;
+  padding: 0% 0% 0 60%;
   width: 100%;
   height: 7.6%;
-  //padding: 1% 0% 0 60%;
+
 }
 .homeHeader {
   z-index:10;
   padding: 0% 0 0% 0;
   margin: 1.5% 2% 0 0;
   font-size: 2vh;
+  //font-family: Arial;
   color: white;
-  text-shadow: 3px 3px 0 #000,
+  //text-shadow: 3px 3px 0 #000,
     /* Simulated effect for Firefox and Opera
     and nice enhancement for WebKit */
-  -1px -1px 0 #000,
-  1px -1px 0 #000,
-  -1px 1px 0 #000,
-  1px 1px 0 #000;
+  //-1px -1px 0 #000,
+  //1px -1px 0 #000,
+  //-1px 1px 0 #000,
+  //1px 1px 0 #000;
   a:hover {
     color: #81D7A9;
   }
 }
-
+.nameLogo {
+  position: absolute;
+  z-index:10;
+  left: 25%;
+  top: 15%;
+  //width: 30%;
+  //height:10%;
+}
 //header
 .headerWrapper {
   z-index: 10;
   display: flex;
   position: absolute;
-  padding: 0 0 0 60%;
+  padding: 0% 0% 0% 60%;
   width: 100%;
   height: 7.6%;
   background-color: black;
@@ -65,13 +85,15 @@ html, body {
   font-size: 2vh;
   display: inline;
   color: white;
-  text-shadow: 3px 3px 0 #000,
+
+  //text-shadow: 3px 3px 0 #000,
     /* Simulated effect for Firefox and Opera
        and nice enhancement for WebKit */
-  -1px -1px 0 #000,
-  1px -1px 0 #000,
-  -1px 1px 0 #000,
-  1px 1px 0 #000;
+
+  //-1px -1px 0 #000,
+  //1px -1px 0 #000,
+  //-1px 1px 0 #000,
+  //1px 1px 0 #000;
 }
 a:link {
   z-index:10;
@@ -85,23 +107,74 @@ a:visited {
   color: white;
 }
 
-//
-
-//Social Page
-.iconWrapperSocial {
-  display: flex;
+//SOCIAL PAGE
+.socialBackGround {
   position: absolute;
-  top: 30%;
-  left: 40%;
-  a {
-    padding: 5%;
-  }
+  z-index: 1;
+  background-image: url("../images/runner.png");
+  width: 100%;
+  height:100%;
+  background-size: cover;
+}
+//.iconWrapperSocial {
+//  display: flex;
+//  //position: absolute;
+//  top: 30%;
+//  left: 50%;
+//  //a {
+//  //  position: absolute;
+//  //  top: 20%;
+//  //  left: 40%;
+//  //  padding: 5%;
+//  //}
+//
+//}
+.twit {
+  position: absolute;
+  z-index:10;
+  top: 90%;
+  left: 15%;
+  text-shadow:
+          -1px -1px 0 #000,
+          1px -1px 0 #000,
+          -1px 1px 0 #000,
+          1px 1px 0 #000;
+}
+.face {
+  position: absolute;
+  z-index: 10;
+  top: 90%;
+  left: 9%;
+  text-shadow:
+          -1px -1px 0 #000,
+          1px -1px 0 #000,
+          -1px 1px 0 #000,
+          1px 1px 0 #000;
+}
+.insta {
+  position: absolute;
+  z-index: 10;
+  top: 90%;
+  left: 2%;
+  text-shadow:
+          -1px -1px 0 #000,
+          1px -1px 0 #000,
+          -1px 1px 0 #000,
+          1px 1px 0 #000;
+  position: absolute;
 }
 .aboutMe {
   color: white;
+  text-shadow:
+          -1px -1px 0 #000,
+          2px -1px 0 #000,
+          -2px 1px 0 #000,
+          2px 1px 0 #000;
   position: absolute;
-  top: 50%;
-  right: 35%;
+  z-index: 2;
+  top: 36%;
+  left: 32%;
+  //right: 35%;
   font-size: 3em;
 }
 
@@ -119,24 +192,38 @@ a:visited {
   margin: 5%;
   font-size: 2vh;
   color: white;
-  text-shadow: 3px 3px 0 #000,
-    /* Simulated effect for Firefox and Opera
-       and nice enhancement for WebKit */
-  -1px -1px 0 #000,
-  1px -1px 0 #000,
-  -1px 1px 0 #000,
-  1px 1px 0 #000;
+  //text-shadow: 3px 3px 0 #000,
+  //  /* Simulated effect for Firefox and Opera
+  //     and nice enhancement for WebKit */
+  //-1px -1px 0 #000,
+  //1px -1px 0 #000,
+  //-1px 1px 0 #000,
+  //1px 1px 0 #000;
 
 }
 .skillsHeader {
   z-index:10;
   color: white;
   font-size: 2em;
-  padding: 4% 0 0 44%;
+  padding: 9% 0 0 44%;
 }
 .line {
-  padding: 3.9% 0 0 0;
+  position: absolute;
+  z-index: 20;
+  height: em;
+  width: 100%;
+  top: 6.6%;
+  //left: 10%;
+  //padding: 3.7% 0 0 0;
+  //padding: 3.9% 0 0 0;
 }
+//.line2 {
+//  z-index: 20;
+//  height: 1em;
+//  width: 100%;
+//  //top: 6.19%;
+//  //bottom: 99%;
+//}
 //Skills Main Content
 
 img {
@@ -202,7 +289,14 @@ img {
 //end Header
 
 // PORTFOLIO PAGE
-
+.portfolioBackGround {
+  position: absolute;
+  z-index: 1;
+  background-image: url("../images/typewriter.png");
+  width: 100%;
+  height:100%;
+  background-size: cover;
+}
 .projectWrapper {
   padding: 20% 0% 0 20%;
   display: flex;
@@ -211,23 +305,159 @@ img {
   z-index: 20;
   flex-wrap: wrap;
 }
-.project {
+.project1 {
+  position: absolute;
   color: white;
+  top: 60%;
+  left: 30%;
   z-index:20;
   width: 20%;
   height: 25%;
   border: 3px;
 }
+.project2 {
+  position: absolute;
+  color: white;
+  top: 60%;
+  left: 44%;
+  z-index:20;
+  width: 20%;
+  height: 25%;
+  border: 3px;
+}
+.project3 {
+  position: absolute;
+  color: white;
+  top: 60%;
+  left: 58%;
+  z-index:20;
+  width: 20%;
+  height: 25%;
+  border: 3px;
+}
+.project4 {
+  position: absolute;
+  color: white;
+  top: 60%;
+  left: 72%;
+  z-index:20;
+  width: 20%;
+  height: 25%;
+  border: 3px;
+}
+.project1case {
+  position: absolute;
+  z-index: 2;
+  left: 26%;
+  top: 50%;
+  width: 12%;
+  height: 20%;
+  color: white;
+  border: 1%;
+  border-color: white;
+  background: none;
+  font-size: .4em;
+  //text-align: center;
+  //font-size: .65em;
+}
+.project2case {
+  position: absolute;
+  z-index: 2;
+  left: 40%;
+  top: 50%;
+  width: 12%;
+  height: 20%;
+  color: white;
+  border: 1%;
+  border-color: white;
+  background: none;
+  font-size: .4em;
+  //text-align: center;
+  //font-size: .65em;
+}
+.project3case {
+  position: absolute;
+  z-index: 2;
+  left: 54%;
+  top: 50%;
+  width: 12%;
+  height: 20%;
+  color: white;
+  border: 1%;
+  border-color: white;
+  background: none;
+  font-size: .4em;
+  //text-align: center;
+  //font-size: .65em;
+}
+.project4case {
+  position: absolute;
+  z-index: 2;
+  left: 68%;
+  top: 50%;
+  width: 12%;
+  height: 20%;
+  color: white;
+  border: 1%;
+  border-color: white;
+  background: none;
+  font-size: .4em;
+  //text-align: center;
+  //font-size: .65em;
+}
 
 //RESUME PAGE
-
-.resume {
+.resumeBackGround {
+  position: absolute;
+  z-index: 1;
+  background-image: url("../images/brick-wall.png");
+  width: 100%;
+  height:100%;
+  background-size: cover;
+}
+.resumeTop {
+  position: absolute;
+  z-index: 20;
+  top: 41%;
+  left: 38%;
   color: white;
-  font-size: 2em;
+  font-size: 3em;
+}
+.resumeBottom {
+  position: absolute;
+  z-index: 21;
+  top: 47%;
+  left: 41.5%;
+  color: white;
+  font-size: 3em;
+}
+.resumeButton {
+  position: absolute;
+  z-index: 10;
+  top: 40%;
+  left: 37%;
+  width: 26.9%;
+  height: 13%;
+  background: none;
+  border-color: white;
+}
+
+.fa-linkedin {
+  position: absolute;
+  z-index: 20;
+  top: 56%;
+  left: 48%;
 }
 
 //CONTACT PAGE
-
+.contactBackGround {
+    position: absolute;
+    z-index: 1;
+    background-image: url("../images/sunsetsurfer.png");
+    width: 100%;
+    height:100%;
+    background-size: cover;
+}
 .contactMe {
   color: white;
   font-size: 2em;
@@ -241,64 +471,150 @@ img {
 }
 .inputName {
   position: absolute;
-  left: 55%;
+  z-index: 2;
+  left: 59%;
   top: 30%;
-  width: 20%;
+  width: 30%;
   height: 5%;
   border: 1%;
   border-color: white;
   background: none;
-  text-decoration-color: white;
-  text-align: center;
-  //font-size: .75em;
+  //text-decoration-color: white;
 }
 .inputEmail {
   position: absolute;
-  left: 55%;
+  z-index: 2;
+  left: 59%;
   top: 40%;
-  width: 20%;
+  width: 30%;
   height: 5%;
+  color: white;
   border: 1%;
   border-color: white;
   background: none;
-  text-align: center;
+  //text-align: center;
   //font-size: .75em;
 }
 .messageBox {
   position: absolute;
-  left: 55%;
-  top: 60%;
-  width: 20%;
-  height: 20%;
+  z-index: 2;
+  left: 59%;
+  top: 50%;
+  width: 30%;
+  height: 25%;
+  color: white;
   border: 1%;
   border-color: white;
   background: none;
   font-size: .4em;
   //text-align: center;
   //font-size: .65em;
+  textarea {
+    border: none;
+    overflow: auto;
+    outline: none;
+    font-size: 1em;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+  }
 }
 input {
+  z-index: 2;
   color: white;
-  font-size: .6em;
+  //font-size: .6em;
 }
 textarea {
+  z-index: 2;
   color: white;
-  font-size: .6em;
+  //font-size: .6em;
 }
+.sendEmailButton {
+  position: absolute;
+  z-index: 2;
+  left: 57%;
+  top: 70%;
+  background: none;
+  width: 16%;
+  height: 16%;
+  //border: 1%;
+  //border-color: white;
+  //background: none;
+}
+.sendEmailButton1 {
+  z-index: 20;
+  position: absolute;
+  background: none;
+  top: 79%;
+  left: 59%;
+  //background-color: #4CAF50;
+  border: 1%;
+  border-color: white;
+  font-size: .45em;
+  color: #FFFFFF;
+  padding: 20px;
+  width: 12%;
+  height: 8%;
+  text-align: center;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  text-decoration: none;
+  overflow: hidden;
+  cursor: pointer;
+}
+.sendEmailButton1:after {
+  content: "";
+  //background: #90EE90;
+  background: #FFFFFF;
+  display: block;
+  position: absolute;
+  padding-top: 300%;
+  padding-left: 350%;
+  margin-left: -20px!important;
+  margin-top: -120%;
+  opacity: 0;
+  transition: all 0.8s
+}
+
+.sendEmailButton1:active:after {
+  padding: 0;
+  margin: 0;
+  opacity: 1;
+  transition: 0s
+}
+
+
 .sendEmail {
   position: absolute;
-  left: 60%;
-  top: 83%;
+  z-index: 2;
+  left: 59%;
+  top: 80%;
   width: 10%;
   height: 5%;
-  border: 1vh;
+  border: 1%;
   border-color: white;
+  background: none;
+  text-align: center;
+  text-align: justify;
+  //font-size: 1em;
 
 }
-//logos
-.fa {
+textarea:focus, input:focus{
+  outline: 0;
+}
+textarea::-webkit-input-placeholder {
+  //position: absolute;
+  padding: 3% 0% 0% 3%;
+  top: 10%;
   color: white;
 }
+
+////logos
+//.fa {
+//  z-index:3;
+//  position: absolute;
+//  color: black;
+//}
 .iconWrapperContact {
   display: flex;
   //padding: 0% 10% 0% 0%;
@@ -310,6 +626,21 @@ textarea {
     padding: 11% 10% 0% 0%;
   }
 }
+
+//.testing {
+//   position: absolute;
+//   background-color: #81D7A9;
+//   top: 50%;
+//   left: 50%;
+//   z-index:20;
+// }
+//.testingb {
+//  position: absolute;
+//  background-color: #81D7A9;
+//  top: 55%;
+//  left: 50%;
+//  z-index:20;
+//}
 
 
 

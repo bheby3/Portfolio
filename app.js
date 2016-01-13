@@ -1,11 +1,12 @@
-var app = angular.module('app', ['ui.router']);
+var app = angular.module('app', ['ui.router', 'firebase']);
 
 app.config(function ($stateProvider, $urlRouterProvider) {
 
     $stateProvider
         .state('home', {
             url: '/home',
-            templateUrl: 'templates/home.html'
+            templateUrl: 'templates/home.html',
+            controller: 'mainCtrl'
         })
         .state('social', {
             url: '/social',
@@ -27,10 +28,10 @@ app.config(function ($stateProvider, $urlRouterProvider) {
             url: '/contact',
             templateUrl: 'templates/contact.html'
         })
-        .state('firebase', {
-            url: '/firebase',
-            templateUrl: 'script/directives/firebase.html'
-        });
+        //.state('firebase', {
+        //    url: '/firebase',
+        //    templateUrl: 'script/directives/firebase.html'
+        //});
 
     $urlRouterProvider
         .otherwise('/home');
