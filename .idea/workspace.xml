@@ -1,7 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c8188db7-cd05-4141-a02d-4b8e31941884" name="Default" comment="" />
+    <list default="true" id="c8188db7-cd05-4141-a02d-4b8e31941884" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/style.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/templates/skills.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/templates/social.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/littleByLittle.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Maroon 5 - Sugar (Official Music Video).mp4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/The Unseen Sea.mp4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/backgroundvid.mp4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/bradsthumbup.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/bradthumbsup.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/brick-wall.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/cityrasterizedforweb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/guyStanding.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logo/imagelogo/Express.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logo/imagelogo/angular.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logo/imagelogo/css3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logo/imagelogo/firebase.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logo/imagelogo/git.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logo/imagelogo/html5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logo/imagelogo/javascript.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logo/imagelogo/mongodb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logos/IMG_3699.m4v" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logos/angularoutlinedf.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logos/guyStanding.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logos/html5outlinedf.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logos/javascriptoutlinedf.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logos/name.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logos/nodejs.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/namelogo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/namelogo3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/resumebutton.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/runner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/sendbutton.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/sendbutton2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/shark.m4v" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/sunsetsurfer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/thumbup.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/typewriter.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/unseenBackGround.mp4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/yellowwall.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/style/style.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/skills.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/social.html" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app.js" afterPath="$PROJECT_DIR$/public/app.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/script/directives/firebase.html" afterPath="$PROJECT_DIR$/public/script/directives/firebase.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/script/directives/firebase.js" afterPath="$PROJECT_DIR$/public/script/directives/firebase.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/script/directives/firebasectrl.js" afterPath="$PROJECT_DIR$/public/script/directives/firebasectrl.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/script/directives/firebasedir.html" afterPath="$PROJECT_DIR$/public/script/directives/firebasedir.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/script/directives/homeNav.html" afterPath="$PROJECT_DIR$/public/script/directives/homeNav.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/script/directives/homeNav.js" afterPath="$PROJECT_DIR$/public/script/directives/homeNav.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/script/directives/navbar.html" afterPath="$PROJECT_DIR$/public/script/directives/navbar.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/script/directives/navbar.js" afterPath="$PROJECT_DIR$/public/script/directives/navbar.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/script/directives/not needed/firstBackGround.html" afterPath="$PROJECT_DIR$/public/script/directives/not needed/firstBackGround.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/script/directives/not needed/firstBackGround.js" afterPath="$PROJECT_DIR$/public/script/directives/not needed/firstBackGround.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/script/directives/not needed/secondBackGround.html" afterPath="$PROJECT_DIR$/public/script/directives/not needed/secondBackGround.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/script/directives/not needed/secondBackGround.js" afterPath="$PROJECT_DIR$/public/script/directives/not needed/secondBackGround.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/script/directives/not needed/thirdBackGround.html" afterPath="$PROJECT_DIR$/public/script/directives/not needed/thirdBackGround.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/script/directives/not needed/thirdBackGround.js" afterPath="$PROJECT_DIR$/public/script/directives/not needed/thirdBackGround.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/script/script.js" afterPath="$PROJECT_DIR$/public/script/script.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/style/style.css" afterPath="$PROJECT_DIR$/public/style/style.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/style/style.scss" afterPath="$PROJECT_DIR$/public/style/style.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/contact.html" afterPath="$PROJECT_DIR$/public/templates/contact.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/home.html" afterPath="$PROJECT_DIR$/public/templates/home.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/portfolio.html" afterPath="$PROJECT_DIR$/public/templates/portfolio.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/resume.html" afterPath="$PROJECT_DIR$/public/templates/resume.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="littleByLittle.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,251 +91,46 @@
     <favorites_list name="littleByLittle" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="vertical" split-proportion="0.47743466">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="home.html" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/templates/home.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.71146244">
-                  <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-                  <folding>
-                    <marker date="1452727845000" expanded="false" signature="0:108" placeholder="..." />
-                    <marker date="1452727845000" expanded="false" signature="888:974" placeholder="..." />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/index.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-8.0">
-                  <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="14" selection-end-column="42" />
-                  <folding>
-                    <marker date="1452698567000" expanded="false" signature="282:382" placeholder="..." />
-                    <marker date="1452698567000" expanded="true" signature="404:534" placeholder="..." />
-                    <marker date="1452698567000" expanded="false" signature="1146:1219" placeholder="..." />
-                    <marker date="1452698567000" expanded="false" signature="1224:1379" placeholder="..." />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="portfolio.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/templates/portfolio.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-2.0">
-                  <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="resume.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/templates/resume.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-3.3333333">
-                  <caret line="5" column="76" selection-start-line="5" selection-start-column="76" selection-end-line="5" selection-end-column="76" />
-                  <folding>
-                    <marker date="1452727096000" expanded="false" signature="90:166" placeholder="..." />
-                    <marker date="1452727096000" expanded="false" signature="244:289" placeholder="..." />
-                    <marker date="1452727096000" expanded="false" signature="534:605" placeholder="..." />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="firebasedir.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/script/directives/firebasedir.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-19.333334">
-                  <caret line="41" column="0" selection-start-line="41" selection-start-column="4" selection-end-line="43" selection-end-column="5" />
-                  <folding>
-                    <marker date="1452725165000" expanded="true" signature="171:304" placeholder="..." />
-                    <marker date="1452725165000" expanded="false" signature="310:457" placeholder="..." />
-                    <marker date="1452725165000" expanded="true" signature="752:867" placeholder="..." />
-                    <marker date="1452725165000" expanded="false" signature="952:1108" placeholder="..." />
-                    <marker date="1452725165000" expanded="false" signature="1113:1320" placeholder="..." />
-                    <marker date="1452725165000" expanded="false" signature="1324:1939" placeholder="..." />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="firebase.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/script/directives/firebase.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0">
-                  <caret line="48" column="7" selection-start-line="48" selection-start-column="7" selection-end-line="48" selection-end-column="7" />
-                  <folding>
-                    <element signature="n#!!doc" expanded="true" />
-                    <marker date="1452639185000" expanded="false" signature="2:2213" placeholder="..." />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="skills.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/templates/skills.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="3.3333333">
-                  <caret line="13" column="43" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
-                  <folding>
-                    <marker date="1452633123000" expanded="false" signature="18:476" placeholder="..." />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/templates/contact.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-0.6666667">
-                  <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-                  <folding>
-                    <marker date="1452700085000" expanded="false" signature="30:893" placeholder="..." />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="navbar.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/script/directives/navbar.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-2.0">
-                  <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/app.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0">
-                  <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="style.scss" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/style/style.scss">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.6971831">
-                  <caret line="439" column="12" selection-start-line="439" selection-start-column="12" selection-end-line="439" selection-end-column="12" />
-                  <folding>
-                    <element signature="e#195#325#0" expanded="false" />
-                    <element signature="e#338#465#0" expanded="false" />
-                    <element signature="e#485#598#0" expanded="false" />
-                    <element signature="e#611#969#0" expanded="false" />
-                    <element signature="e#980#1076#0" expanded="false" />
-                    <element signature="e#1101#1303#0" expanded="false" />
-                    <element signature="e#1312#1634#0" expanded="false" />
-                    <element signature="e#1642#1684#0" expanded="false" />
-                    <element signature="e#1693#1720#0" expanded="false" />
-                    <element signature="e#1731#1764#0" expanded="false" />
-                    <element signature="e#1798#1942#0" expanded="false" />
-                    <element signature="e#2157#2344#0" expanded="false" />
-                    <element signature="e#2351#2538#0" expanded="false" />
-                    <element signature="e#2546#2755#0" expanded="false" />
-                    <element signature="e#2765#3002#0" expanded="false" />
-                    <element signature="e#3056#3137#0" expanded="false" />
-                    <element signature="e#3152#3427#0" expanded="false" />
-                    <element signature="e#3442#3516#0" expanded="false" />
-                    <element signature="e#3523#3670#0" expanded="false" />
-                    <element signature="e#3801#3841#0" expanded="false" />
-                    <element signature="e#4284#4340#0" expanded="false" />
-                    <element signature="e#4358#4450#0" expanded="false" />
-                    <element signature="e#4458#4496#0" expanded="false" />
-                    <element signature="e#4502#4543#0" expanded="false" />
-                    <element signature="e#4551#4590#0" expanded="false" />
-                    <element signature="e#4644#4792#0" expanded="false" />
-                    <element signature="e#4809#4929#0" expanded="false" />
-                    <element signature="e#4940#5064#0" expanded="false" />
-                    <element signature="e#5075#5199#0" expanded="false" />
-                    <element signature="e#5210#5334#0" expanded="false" />
-                    <element signature="e#5345#5469#0" expanded="false" />
-                    <element signature="e#5484#5715#0" expanded="false" />
-                    <element signature="e#5730#5961#0" expanded="false" />
-                    <element signature="e#5976#6207#0" expanded="false" />
-                    <element signature="e#6222#6453#0" expanded="false" />
-                    <element signature="e#6487#6635#0" expanded="false" />
-                    <element signature="e#7031#7096#0" expanded="false" />
-                    <element signature="e#7132#7294#0" expanded="false" />
-                    <element signature="e#7306#7390#0" expanded="false" />
-                    <element signature="e#7428#7449#0" expanded="false" />
-                    <element signature="e#7461#7644#0" expanded="false" />
-                    <element signature="e#7657#7868#0" expanded="false" />
-                    <element signature="e#7881#8285#0" expanded="false" />
-                    <element signature="e#8428#8604#0" expanded="false" />
-                    <element signature="e#8623#9024#0" expanded="false" />
-                    <element signature="e#9049#9288#0" expanded="false" />
-                    <element signature="e#9321#9382#0" expanded="false" />
-                    <element signature="e#9396#9611#0" expanded="false" />
-                    <element signature="e#9873#10037#0" expanded="false" />
-                    <element signature="e#10312#10459#0" expanded="false" />
-                    <element signature="e#10477#10652#0" expanded="false" />
-                    <marker date="1452728234000" expanded="true" signature="179:325" placeholder="..." />
-                    <marker date="1452728234000" expanded="false" signature="731:931" placeholder="..." />
-                    <marker date="1452728234000" expanded="false" signature="1429:1632" placeholder="..." />
-                    <marker date="1452728234000" expanded="false" signature="1943:2150" placeholder="..." />
-                    <marker date="1452728234000" expanded="false" signature="2046:2143" placeholder="..." />
-                    <marker date="1452728234000" expanded="false" signature="3216:3424" placeholder="..." />
-                    <marker date="1452728234000" expanded="false" signature="3606:3668" placeholder="..." />
-                    <marker date="1452728234000" expanded="false" signature="3671:3773" placeholder="..." />
-                    <marker date="1452728234000" expanded="true" signature="8411:8604" placeholder="..." />
-                    <marker date="1452728234000" expanded="false" signature="10039:10279" placeholder="..." />
-                    <marker date="1452728234000" expanded="true" signature="10653:11618" placeholder="..." />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/script/script.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0">
-                  <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
-                  <folding>
-                    <marker date="1452719564000" expanded="false" signature="498:565" placeholder="..." />
-                    <marker date="1452719564000" expanded="false" signature="568:747" placeholder="..." />
-                    <marker date="1452719564000" expanded="false" signature="752:813" placeholder="..." />
-                    <marker date="1452719564000" expanded="false" signature="878:891" placeholder="..." />
-                    <marker date="1452719564000" expanded="false" signature="895:1467" placeholder="..." />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="firebasectrl.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/script/directives/firebasectrl.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0">
-                  <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
-                  <folding>
-                    <element signature="e#257#293#0" expanded="false" />
-                    <element signature="e#339#370#0" expanded="false" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-7.3333335">
+              <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+              <folding>
+                <marker date="1457627157000" expanded="false" signature="282:382" placeholder="..." />
+                <marker date="1457627157000" expanded="false" signature="404:534" placeholder="..." />
+                <marker date="1457627157000" expanded="false" signature="1146:1219" placeholder="..." />
+                <marker date="1457627157000" expanded="false" signature="1224:1379" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="server.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/server.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.13432837">
+              <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
+              <folding>
+                <element signature="e#0#48#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -281,25 +147,31 @@
         <option value="$PROJECT_DIR$/script/directives/header.js" />
         <option value="$PROJECT_DIR$/script/directives/homeNav.js" />
         <option value="$PROJECT_DIR$/script/directives/homeNav.html" />
-        <option value="$PROJECT_DIR$/templates/skills.html" />
         <option value="$PROJECT_DIR$/script/directives/firebaseservice.js" />
         <option value="$PROJECT_DIR$/script/directives/navbar.js" />
         <option value="$PROJECT_DIR$/script/directives/firebase.js" />
         <option value="$PROJECT_DIR$/script/directives/firebase.html" />
-        <option value="$PROJECT_DIR$/script/directives/navbar.html" />
-        <option value="$PROJECT_DIR$/templates/portfolio.html" />
         <option value="$PROJECT_DIR$/images/thumbs.html" />
         <option value="$PROJECT_DIR$/script/directives/script.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/templates/contact.html" />
-        <option value="$PROJECT_DIR$/templates/social.html" />
         <option value="$PROJECT_DIR$/script/script.js" />
         <option value="$PROJECT_DIR$/script/directives/firebasectrl.js" />
-        <option value="$PROJECT_DIR$/script/directives/firebasedir.html" />
-        <option value="$PROJECT_DIR$/templates/resume.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/script/script.js" />
+        <option value="$PROJECT_DIR$/script/directives/firebasectrl.js" />
         <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/script/directives/navbar.html" />
+        <option value="$PROJECT_DIR$/templates/social.html" />
+        <option value="$PROJECT_DIR$/templates/portfolio.html" />
+        <option value="$PROJECT_DIR$/templates/resume.html" />
+        <option value="$PROJECT_DIR$/script/directives/firebasedir.html" />
         <option value="$PROJECT_DIR$/templates/home.html" />
+        <option value="$PROJECT_DIR$/templates/skills.html" />
         <option value="$PROJECT_DIR$/style/style.scss" />
+        <option value="$PROJECT_DIR$/style/style.scss" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/server.js" />
       </list>
     </option>
   </component>
@@ -309,10 +181,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1779" />
-    <option name="y" value="187" />
-    <option name="width" value="1315" />
-    <option name="height" value="873" />
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -327,20 +197,32 @@
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
-      <showMembers />
+      <showMembers ProjectPane="false" />
       <showModules />
       <showLibraryContents />
       <hideEmptyPackages />
       <abbreviatePackageNames />
-      <autoscrollToSource />
+      <autoscrollToSource ProjectPane="true" />
       <autoscrollFromSource />
       <sortByType />
       <manualOrder />
-      <foldersAlwaysOnTop value="true" />
+      <foldersAlwaysOnTop value="false" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
+      <pane id="Scratches">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.intellij.ide.scratch.ScratchProjectViewPane$MyProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Scratches" />
+              <option name="myItemType" value="com.intellij.ide.scratch.ScratchProjectViewPane$MyRootNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -355,7 +237,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="littleByLittle" />
+              <option name="myItemId" value="portfo" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -365,75 +247,48 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="littleByLittle" />
+              <option name="myItemId" value="portfo" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="littleByLittle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="littleByLittle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="script" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="littleByLittle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="littleByLittle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="script" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="directives" />
+              <option name="myItemId" value="public" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope">
+        <subPane subId="Default" />
+        <subPane subId="Project Files" />
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
-    <property name="last_opened_file_path" value="$USER_HOME$/WebstormProjects/DevMountain/Jan13" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="jsx.switch.disabled" value="true" />
+    <property name="FullScreen" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$/script/directives/not needed" />
+      <recent name="$PROJECT_DIR$/script/directives" />
+      <recent name="$PROJECT_DIR$/images/logo/imagelogo" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/images/logo/imagelogo" />
       <recent name="$PROJECT_DIR$/images/logo" />
       <recent name="$PROJECT_DIR$/images/logos" />
       <recent name="$PROJECT_DIR$/style" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/images" />
-      <recent name="$PROJECT_DIR$/script/directives/not needed" />
-      <recent name="$PROJECT_DIR$/script/directives" />
-      <recent name="$PROJECT_DIR$/images/logo/imagelogo" />
-      <recent name="$PROJECT_DIR$/images/logos" />
     </key>
   </component>
   <component name="RunManager">
@@ -487,6 +342,10 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_MODE" value="false" />
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -500,18 +359,17 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1779" y="187" width="1315" height="873" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14605874" sideWeight="0.4946565" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14517266" sideWeight="0.4946565" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Regex Tester" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14012739" sideWeight="0.5018431" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32668066" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15421687" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1702945" sideWeight="0.49815693" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1534937" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="1.0" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33562428" sideWeight="0.49815693" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18617772" sideWeight="0.5053435" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -519,6 +377,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32668066" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -527,17 +386,17 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Regex Tester" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14012739" sideWeight="0.5018431" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970297" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2940594" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11585045" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15364917" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1702945" sideWeight="0.49815693" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14517266" sideWeight="0.4946565" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32772276" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32668066" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="1.0" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18617772" sideWeight="0.5053435" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
@@ -556,7 +415,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/script/directives/firebase.js</url>
+          <url>file://$PROJECT_DIR$/public/script/directives/firebase.js</url>
           <line>14</line>
         </line-breakpoint>
       </breakpoints>
@@ -565,310 +424,13 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/script/directives/not needed/thirdBackGround.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="55" selection-start-line="2" selection-start-column="55" selection-end-line="2" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/script/directives/not needed/secondBackGround.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/script/directives/not needed/firstBackGround.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="7" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/social.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/skills.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-          <folding>
-            <marker date="1452633123000" expanded="false" signature="18:476" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/style/style.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#195#325#0" expanded="false" />
-            <element signature="e#338#465#0" expanded="false" />
-            <element signature="e#485#598#0" expanded="false" />
-            <element signature="e#611#969#0" expanded="false" />
-            <element signature="e#980#1076#0" expanded="false" />
-            <element signature="e#1101#1303#0" expanded="false" />
-            <element signature="e#1312#1634#0" expanded="false" />
-            <element signature="e#1642#1684#0" expanded="false" />
-            <element signature="e#1693#1720#0" expanded="false" />
-            <element signature="e#1731#1764#0" expanded="false" />
-            <element signature="e#1798#1942#0" expanded="false" />
-            <element signature="e#2157#2344#0" expanded="false" />
-            <element signature="e#2351#2538#0" expanded="false" />
-            <element signature="e#2546#2755#0" expanded="false" />
-            <element signature="e#2765#3002#0" expanded="false" />
-            <element signature="e#3056#3137#0" expanded="false" />
-            <element signature="e#3152#3427#0" expanded="false" />
-            <element signature="e#3442#3516#0" expanded="false" />
-            <element signature="e#3523#3670#0" expanded="false" />
-            <element signature="e#3801#3841#0" expanded="false" />
-            <element signature="e#4284#4340#0" expanded="false" />
-            <element signature="e#4358#4450#0" expanded="false" />
-            <element signature="e#4458#4496#0" expanded="false" />
-            <element signature="e#4502#4543#0" expanded="false" />
-            <element signature="e#4551#4590#0" expanded="false" />
-            <element signature="e#4644#4792#0" expanded="false" />
-            <element signature="e#4809#4929#0" expanded="false" />
-            <element signature="e#4940#5064#0" expanded="false" />
-            <element signature="e#5075#5199#0" expanded="false" />
-            <element signature="e#5210#5334#0" expanded="false" />
-            <element signature="e#5345#5469#0" expanded="false" />
-            <element signature="e#5484#5715#0" expanded="false" />
-            <element signature="e#5730#5961#0" expanded="false" />
-            <element signature="e#5976#6207#0" expanded="false" />
-            <element signature="e#6222#6453#0" expanded="false" />
-            <element signature="e#6487#6635#0" expanded="false" />
-            <element signature="e#7031#7096#0" expanded="false" />
-            <element signature="e#7132#7294#0" expanded="false" />
-            <element signature="e#7306#7390#0" expanded="false" />
-            <element signature="e#7428#7449#0" expanded="false" />
-            <element signature="e#7461#7644#0" expanded="false" />
-            <element signature="e#7657#7868#0" expanded="false" />
-            <element signature="e#7881#8285#0" expanded="false" />
-            <element signature="e#8428#8604#0" expanded="false" />
-            <element signature="e#8623#9024#0" expanded="false" />
-            <element signature="e#9049#9288#0" expanded="false" />
-            <element signature="e#9321#9382#0" expanded="false" />
-            <element signature="e#9396#9611#0" expanded="false" />
-            <element signature="e#9873#10037#0" expanded="false" />
-            <element signature="e#10312#10459#0" expanded="false" />
-            <element signature="e#10477#10652#0" expanded="false" />
-            <marker date="1452728234000" expanded="true" signature="179:325" placeholder="..." />
-            <marker date="1452728234000" expanded="false" signature="731:931" placeholder="..." />
-            <marker date="1452728234000" expanded="false" signature="1429:1632" placeholder="..." />
-            <marker date="1452728234000" expanded="false" signature="1943:2150" placeholder="..." />
-            <marker date="1452728234000" expanded="false" signature="2046:2143" placeholder="..." />
-            <marker date="1452728234000" expanded="false" signature="3216:3424" placeholder="..." />
-            <marker date="1452728234000" expanded="false" signature="3606:3668" placeholder="..." />
-            <marker date="1452728234000" expanded="false" signature="3671:3773" placeholder="..." />
-            <marker date="1452728234000" expanded="true" signature="8411:8604" placeholder="..." />
-            <marker date="1452728234000" expanded="false" signature="10039:10279" placeholder="..." />
-            <marker date="1452728234000" expanded="true" signature="10653:11618" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/logos/angularoutlinedf.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/logos/html5outlinedf.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/logos/javascriptoutlinedf.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/logos/nodejs.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/logo/imagelogo/angular.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/logo/imagelogo/css3.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/logo/imagelogo/Express.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/logo/imagelogo/firebase.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/logo/imagelogo/javascript.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/logo/imagelogo/html5.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/logo/imagelogo/git.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/logo/imagelogo/mongodb.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/script/directives/homeNav.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="53" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/script/directives/not needed/secondBackGround.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="56" selection-start-line="2" selection-start-column="56" selection-end-line="2" selection-end-column="56" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/script/directives/not needed/thirdBackGround.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/script/directives/not needed/secondBackGround.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/script/directives/not needed/thirdBackGround.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.091836736">
-          <caret line="2" column="55" selection-start-line="2" selection-start-column="55" selection-end-line="2" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/script/directives/not needed/firstBackGround.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="7" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/script/directives/not needed/firstBackGround.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.49315068">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/script/directives/homeNav.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2662722">
-          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="64" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/script/directives/navbar.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/script/directives/firebase.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="10" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/sunsetsurfer.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/thumbup.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/social.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.0">
-          <caret line="10" column="56" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="56" />
-          <folding>
-            <marker date="1452700913000" expanded="true" signature="55:89" placeholder="..." />
-            <marker date="1452700913000" expanded="true" signature="72:88" placeholder="..." />
-            <marker date="1452700913000" expanded="false" signature="90:191" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/script/script.js">
+    <entry file="file://$PROJECT_DIR$/public/script/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
           <folding>
+            <element signature="e#496#541#0" expanded="false" />
+            <marker date="1452719564000" expanded="false" signature="206:488" placeholder="..." />
             <marker date="1452719564000" expanded="false" signature="498:565" placeholder="..." />
             <marker date="1452719564000" expanded="false" signature="568:747" placeholder="..." />
             <marker date="1452719564000" expanded="false" signature="752:813" placeholder="..." />
@@ -878,190 +440,390 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/script/directives/firebasectrl.js">
+    <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding>
-            <element signature="e#257#293#0" expanded="false" />
-            <element signature="e#339#370#0" expanded="false" />
+            <marker date="1457627157000" expanded="false" signature="282:382" placeholder="..." />
+            <marker date="1457627157000" expanded="false" signature="404:534" placeholder="..." />
+            <marker date="1457627157000" expanded="false" signature="1146:1219" placeholder="..." />
+            <marker date="1457627157000" expanded="false" signature="1224:1379" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/script/directives/navbar.html">
+    <entry file="file://$PROJECT_DIR$/public/script/directives/not needed/thirdBackGround.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.0">
-          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
-          <folding />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="55" selection-start-line="2" selection-start-column="55" selection-end-line="2" selection-end-column="55" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/contact.html">
+    <entry file="file://$PROJECT_DIR$/public/script/directives/not needed/secondBackGround.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.6666667">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/script/directives/not needed/firstBackGround.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/templates/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="7" selection-end-column="6" />
+          <folding>
+            <marker date="1457596942000" expanded="true" signature="0:94" placeholder="..." />
+            <marker date="1457596942000" expanded="true" signature="539:590" placeholder="..." />
+            <marker date="1457596942000" expanded="false" signature="1039:1125" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/templates/social.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/templates/skills.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/templates/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <marker date="1452700085000" expanded="false" signature="30:893" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/skills.html">
+    <entry file="file://$PROJECT_DIR$/public/style/style.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="3.3333333">
-          <caret line="13" column="43" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
-          <folding>
-            <marker date="1452633123000" expanded="false" signature="18:476" placeholder="..." />
-          </folding>
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/public/images/logos/angularoutlinedf.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/logos/html5outlinedf.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/logos/javascriptoutlinedf.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/logos/nodejs.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/logo/imagelogo/angular.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/logo/imagelogo/css3.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/logo/imagelogo/Express.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/logo/imagelogo/firebase.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/logo/imagelogo/javascript.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/logo/imagelogo/html5.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/logo/imagelogo/git.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/logo/imagelogo/mongodb.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/script/directives/not needed/secondBackGround.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.0">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="14" selection-end-column="42" />
-          <folding>
-            <marker date="1452698567000" expanded="false" signature="282:382" placeholder="..." />
-            <marker date="1452698567000" expanded="true" signature="404:534" placeholder="..." />
-            <marker date="1452698567000" expanded="false" signature="1146:1219" placeholder="..." />
-            <marker date="1452698567000" expanded="false" signature="1224:1379" placeholder="..." />
-          </folding>
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="56" selection-start-line="2" selection-start-column="56" selection-end-line="2" selection-end-column="56" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/portfolio.html">
+    <entry file="file://$PROJECT_DIR$/public/script/directives/not needed/thirdBackGround.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.0">
-          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-          <folding />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/resume.html">
+    <entry file="file://$PROJECT_DIR$/public/script/directives/not needed/secondBackGround.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.3333333">
-          <caret line="5" column="76" selection-start-line="5" selection-start-column="76" selection-end-line="5" selection-end-column="76" />
-          <folding>
-            <marker date="1452727096000" expanded="false" signature="90:166" placeholder="..." />
-            <marker date="1452727096000" expanded="false" signature="244:289" placeholder="..." />
-            <marker date="1452727096000" expanded="false" signature="534:605" placeholder="..." />
-          </folding>
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/script/directives/firebasedir.html">
+    <entry file="file://$PROJECT_DIR$/public/script/directives/not needed/thirdBackGround.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-19.333334">
-          <caret line="41" column="0" selection-start-line="41" selection-start-column="4" selection-end-line="43" selection-end-column="5" />
-          <folding>
-            <marker date="1452725165000" expanded="true" signature="171:304" placeholder="..." />
-            <marker date="1452725165000" expanded="false" signature="310:457" placeholder="..." />
-            <marker date="1452725165000" expanded="true" signature="752:867" placeholder="..." />
-            <marker date="1452725165000" expanded="false" signature="952:1108" placeholder="..." />
-            <marker date="1452725165000" expanded="false" signature="1113:1320" placeholder="..." />
-            <marker date="1452725165000" expanded="false" signature="1324:1939" placeholder="..." />
-          </folding>
+        <state vertical-scroll-proportion="0.091836736">
+          <caret line="2" column="55" selection-start-line="2" selection-start-column="55" selection-end-line="2" selection-end-column="55" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/script/directives/firebase.js">
+    <entry file="file://$PROJECT_DIR$/public/script/directives/not needed/firstBackGround.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="7" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/script/directives/not needed/firstBackGround.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.49315068">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/sunsetsurfer.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/thumbup.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/script/directives/firebase.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="48" column="7" selection-start-line="48" selection-start-column="7" selection-end-line="48" selection-end-column="7" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
             <marker date="1452639185000" expanded="false" signature="2:2213" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
+    <entry file="file://$PROJECT_DIR$/public/images/typewriter.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/home.html">
+    <entry file="file://$PROJECT_DIR$/public/script/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.71146244">
-          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
           <folding>
-            <marker date="1452727845000" expanded="false" signature="0:108" placeholder="..." />
-            <marker date="1452727845000" expanded="false" signature="888:974" placeholder="..." />
+            <element signature="e#496#541#0" expanded="false" />
+            <marker date="1452719564000" expanded="false" signature="206:488" placeholder="..." />
+            <marker date="1452719564000" expanded="false" signature="498:565" placeholder="..." />
+            <marker date="1452719564000" expanded="false" signature="568:747" placeholder="..." />
+            <marker date="1452719564000" expanded="false" signature="752:813" placeholder="..." />
+            <marker date="1452719564000" expanded="false" signature="878:891" placeholder="..." />
+            <marker date="1452719564000" expanded="false" signature="895:1467" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/style/style.scss">
+    <entry file="file://$PROJECT_DIR$/public/script/directives/homeNav.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6971831">
-          <caret line="439" column="12" selection-start-line="439" selection-start-column="12" selection-end-line="439" selection-end-column="12" />
+        <state vertical-scroll-proportion="0.15280136">
+          <caret line="5" column="53" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/script/directives/firebasectrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
           <folding>
-            <element signature="e#195#325#0" expanded="false" />
-            <element signature="e#338#465#0" expanded="false" />
-            <element signature="e#485#598#0" expanded="false" />
-            <element signature="e#611#969#0" expanded="false" />
-            <element signature="e#980#1076#0" expanded="false" />
-            <element signature="e#1101#1303#0" expanded="false" />
-            <element signature="e#1312#1634#0" expanded="false" />
-            <element signature="e#1642#1684#0" expanded="false" />
-            <element signature="e#1693#1720#0" expanded="false" />
-            <element signature="e#1731#1764#0" expanded="false" />
-            <element signature="e#1798#1942#0" expanded="false" />
-            <element signature="e#2157#2344#0" expanded="false" />
-            <element signature="e#2351#2538#0" expanded="false" />
-            <element signature="e#2546#2755#0" expanded="false" />
-            <element signature="e#2765#3002#0" expanded="false" />
-            <element signature="e#3056#3137#0" expanded="false" />
-            <element signature="e#3152#3427#0" expanded="false" />
-            <element signature="e#3442#3516#0" expanded="false" />
-            <element signature="e#3523#3670#0" expanded="false" />
-            <element signature="e#3801#3841#0" expanded="false" />
-            <element signature="e#4284#4340#0" expanded="false" />
-            <element signature="e#4358#4450#0" expanded="false" />
-            <element signature="e#4458#4496#0" expanded="false" />
-            <element signature="e#4502#4543#0" expanded="false" />
-            <element signature="e#4551#4590#0" expanded="false" />
-            <element signature="e#4644#4792#0" expanded="false" />
-            <element signature="e#4809#4929#0" expanded="false" />
-            <element signature="e#4940#5064#0" expanded="false" />
-            <element signature="e#5075#5199#0" expanded="false" />
-            <element signature="e#5210#5334#0" expanded="false" />
-            <element signature="e#5345#5469#0" expanded="false" />
-            <element signature="e#5484#5715#0" expanded="false" />
-            <element signature="e#5730#5961#0" expanded="false" />
-            <element signature="e#5976#6207#0" expanded="false" />
-            <element signature="e#6222#6453#0" expanded="false" />
-            <element signature="e#6487#6635#0" expanded="false" />
-            <element signature="e#7031#7096#0" expanded="false" />
-            <element signature="e#7132#7294#0" expanded="false" />
-            <element signature="e#7306#7390#0" expanded="false" />
-            <element signature="e#7428#7449#0" expanded="false" />
-            <element signature="e#7461#7644#0" expanded="false" />
-            <element signature="e#7657#7868#0" expanded="false" />
-            <element signature="e#7881#8285#0" expanded="false" />
-            <element signature="e#8428#8604#0" expanded="false" />
-            <element signature="e#8623#9024#0" expanded="false" />
-            <element signature="e#9049#9288#0" expanded="false" />
-            <element signature="e#9321#9382#0" expanded="false" />
-            <element signature="e#9396#9611#0" expanded="false" />
-            <element signature="e#9873#10037#0" expanded="false" />
-            <element signature="e#10312#10459#0" expanded="false" />
-            <element signature="e#10477#10652#0" expanded="false" />
-            <marker date="1452728234000" expanded="true" signature="179:325" placeholder="..." />
-            <marker date="1452728234000" expanded="false" signature="731:931" placeholder="..." />
-            <marker date="1452728234000" expanded="false" signature="1429:1632" placeholder="..." />
-            <marker date="1452728234000" expanded="false" signature="1943:2150" placeholder="..." />
-            <marker date="1452728234000" expanded="false" signature="2046:2143" placeholder="..." />
-            <marker date="1452728234000" expanded="false" signature="3216:3424" placeholder="..." />
-            <marker date="1452728234000" expanded="false" signature="3606:3668" placeholder="..." />
-            <marker date="1452728234000" expanded="false" signature="3671:3773" placeholder="..." />
-            <marker date="1452728234000" expanded="true" signature="8411:8604" placeholder="..." />
-            <marker date="1452728234000" expanded="false" signature="10039:10279" placeholder="..." />
-            <marker date="1452728234000" expanded="true" signature="10653:11618" placeholder="..." />
+            <element signature="e#257#293#0" expanded="false" />
+            <element signature="e#339#370#0" expanded="false" />
+            <marker date="1452805893000" expanded="false" signature="184:251" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/script/directives/navbar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/script/directives/homeNav.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.6666665">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/templates/social.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.3333334">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="0" selection-end-line="4" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/templates/portfolio.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.6666667">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="0" selection-end-line="6" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/templates/resume.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.3333334">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="0" selection-end-line="4" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/script/directives/firebasedir.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.6666667">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="0" selection-end-line="6" selection-end-column="9" />
+          <folding>
+            <marker date="1457596073000" expanded="true" signature="178:304" placeholder="..." />
+            <marker date="1457596073000" expanded="false" signature="310:457" placeholder="..." />
+            <marker date="1457596073000" expanded="true" signature="738:853" placeholder="..." />
+            <marker date="1457596073000" expanded="false" signature="938:1094" placeholder="..." />
+            <marker date="1457596073000" expanded="false" signature="1099:1306" placeholder="..." />
+            <marker date="1457596073000" expanded="false" signature="1310:1925" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/script/directives/firebase.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="10" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/templates/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.6666667">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding>
+            <marker date="1452700085000" expanded="false" signature="30:893" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/templates/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.666667">
+          <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+          <folding>
+            <marker date="1457596942000" expanded="true" signature="0:94" placeholder="..." />
+            <marker date="1457596942000" expanded="true" signature="539:590" placeholder="..." />
+            <marker date="1457596942000" expanded="false" signature="1039:1125" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/script/directives/navbar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.6666665">
+          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/templates/skills.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.962963">
+          <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/style/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.537037">
+          <caret line="285" column="16" selection-start-line="285" selection-start-column="16" selection-end-line="285" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.67164177">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.3333335">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <folding>
+            <marker date="1457627157000" expanded="false" signature="282:382" placeholder="..." />
+            <marker date="1457627157000" expanded="false" signature="404:534" placeholder="..." />
+            <marker date="1457627157000" expanded="false" signature="1146:1219" placeholder="..." />
+            <marker date="1457627157000" expanded="false" signature="1224:1379" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13432837">
+          <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#48#0" expanded="false" />
           </folding>
         </state>
       </provider>
